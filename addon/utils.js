@@ -1,8 +1,4 @@
 import { get } from '@ember/object';
-<<<<<<< HEAD
-=======
-import { typeOf } from '@ember/utils';
->>>>>>> 4591e880 (Fix options set on infinity model instance (#336))
 import InfinityModel from 'ember-infinity/lib/infinity-model';
 import EmberError from '@ember/error';
 
